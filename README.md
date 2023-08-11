@@ -6,6 +6,9 @@ Este é um programa Java para gerenciar agências bancárias e contas. Ele permi
 
 - Criar uma nova agência bancária.
 - Criar uma nova conta bancária.
+- Fazer depósito.
+- Realizar saque.
+- Visualizar saldo.
 - Sair do programa.
 
 ## Instruções de Uso
